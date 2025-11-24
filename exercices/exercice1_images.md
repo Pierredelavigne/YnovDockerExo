@@ -8,6 +8,10 @@ En ligne de commande on souhaite :
 2. **Liste d'images :**
    - Affichez la liste des images Docker présentes sur votre machine.
 
+```bash
+docker images
+```
+
 3. **Suppression d'une image :**
    - Supprimez l'image Nginx que vous venez de télécharger de votre machine.
 
